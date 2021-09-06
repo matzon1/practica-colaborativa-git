@@ -40,10 +40,12 @@
     * git log
 21. Alumno A visualiza en su maquina local los cambios realizados en el archivo por el Alumno B.
 <br />
-<br />
+
 ## Flujo de Git:
+
 ![git01](images/photo5010533264858917349.jpg)
+
 <br />
-<br />
+
 ## Estados de los archivos en el Working Directory (git status):
 ![git02](images/photo5010533264858917350.jpg)
