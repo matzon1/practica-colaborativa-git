@@ -2,11 +2,11 @@
 ## Pasos a seguir en la practica de Git:
 1. Armar equipos de 2 alumnos/as, Alumno A y Alumno B.
 2. Alumno A hace un fork del repositorio publico en Github https://github.com/pablobots/practica-colaborativa-git
-3. Alumno A agrega al Alumno B como colaborador del repositorio
+3. Alumno A agrega al Alumno B como colaborador de SU fork del repositorio
     * Alumno B debe revisar en su correo electrónico y aceptar ser colaborador.
 4. Alumno A clona SU fork del repositorio a su máquina local.
     * git clone https://github.com/AlumnoA/practica-colaborativa-git
-5. Alumno A crea un archivo de tipo txt en su repositorio local.
+5. Alumno A abre el repositorio clonado con VSC y crea un archivo de tipo txt en su repositorio local.
 6. Alumno A visualiza el estado de su repositorio.
     * Ubicarse en en la consola sobre la carpeta clonada.
         * cd "path/de/carpeta/clonada"
